@@ -1,2 +1,2 @@
 # insasquatchcountry
-My Site
+My Site can be view at insasquatchcountry.github.io
