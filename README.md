@@ -1,12 +1,14 @@
 # Welcome to Sasquatch Country
 This is a test site for HTML, CSS, and JavaScript.
 
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+Right now I'm using markdown syntax.
+
+# h1 Heading Test
+## h2 Heading Test
+### h3 Heading Test
+#### h4 Heading Test
+##### h5 Heading Test
+###### h6 Heading Test
 
 
 ## Horizontal Rules
