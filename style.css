@@ -749,7 +749,7 @@ aside .wrapper .zen-resources {
     position: relative;
   }
   .intro .preamble {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(0, 0, 0, 0.9);
     border-top: 5px solid #dd3b2a;
     bottom: 0;
     margin: 0;
