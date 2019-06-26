@@ -367,22 +367,22 @@ header h1:after {
   z-index: -1;
 }
 header h2 {
-  text-align: right;
-  max-width: 695px;
-  margin: -10px auto 0;
+  text-align: left;
+  max-width: 930px;
+  margin: 0px auto 0;
   width: 100%;
 }
 .summary {
   position: relative;
   max-width: 1040px;
-  margin: 80px auto 0;
+  margin: 10px auto 0;
   width: 100%;
   z-index: 2;
 }
 .summary p {
-  clear: right;
-  color: #dd3b2a;
-  float: right;
+  clear: left;
+  color: #FFFFFF;
+  float: left;
   font-style: italic;
   margin: 0;
   width: 300px;
