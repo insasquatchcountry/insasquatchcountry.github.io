@@ -95,7 +95,7 @@ fieldset {
   padding: 0.35em 0.625em 0.75em;
 }
 body {
-  color: #0f2a36;
+  color: #FFFFFF;
   font-family: 'Open Sans', Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.25em;
@@ -112,7 +112,7 @@ h2 {
   font-weight: 400;
 }
 h3 {
-  color: #dd3b2a;
+  color: #FFFFFF;
   font-family: 'Adelle W01 Bold', 'Arvo', Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
   font-size: 40px;
   font-weight: 500;
@@ -357,7 +357,7 @@ header h1 {
   z-index: 2;
 }
 header h1:after {
-  background-color: #2add2c;
+  background-color: green;
   content: '';
   height: 2px;
   left: 0;
@@ -414,9 +414,9 @@ header h2 {
   width: 100%;
 }
 .supporting {
-  background-color: rgba(255, 255, 255, 0.9);
-  border-top: 5px solid #dd3b2a;
-  border-bottom: 5px solid #2babe1;
+  background-color: rgba(0, 0, 0, 0.9);
+  border-top: 5px solid green;
+  border-bottom: 5px solid green;
   float: left;
   position: relative;
   width: 100%;
