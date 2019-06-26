@@ -397,7 +397,7 @@ header h2 {
   margin-left: -520px;
   max-width: 495px;
   position: relative;
-  top: 298px;
+  top: 550px;
   width: 50%;
   z-index: 4;
 }
@@ -410,7 +410,7 @@ header h2 {
   background: -ms-linear-gradient(top, #000000 0%, #edf6ff 100%);
   background: linear-gradient(to bottom, #000000 0%, #edf6ff 100%);
   float: left;
-  height: 590px;
+  height: 800px;
   width: 100%;
 }
 .supporting {
