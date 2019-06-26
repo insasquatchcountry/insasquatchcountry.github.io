@@ -482,7 +482,7 @@ header h2 {
   width: 50%;
 }
 .benefits:before {
-  border: 1px solid #dd3b2a;
+  border: 1px solid green;
   content: '';
   display: block;
   height: 0px;
