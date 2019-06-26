@@ -435,8 +435,8 @@ header h2 {
   left: 50%;
 }
 .participation {
-  background: #edf6ff;
-  border-top: 5px solid #cce4fb;
+  background: black;
+  border-top: 5px solid green;
   padding-top: 15px;
   width: 100%;
 }
@@ -465,8 +465,8 @@ header h2 {
   width: 100%;
 }
 .benefits {
-  background-color: #edf6ff;
-  border-bottom: 5px solid #cce4fb;
+  background-color: black;
+  border-bottom: 5px solid green;
   margin-bottom: 25px;
   padding: 150px 0 50px 0;
   width: 100%;
