@@ -351,7 +351,7 @@ header h1 {
   border-top: 4px solid black;
   color: #FFFFFF;
   display: inline-block;
-  min-height: 70px;
+  min-height: 30px;
   margin: 55px auto 0;
   padding: 0 10px;
   z-index: 2;
